@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+*.log
+.qoder
+*.pdf
+check_dupes.mjs
+code_artifact.tsx
